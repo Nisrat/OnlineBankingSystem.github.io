@@ -48,7 +48,7 @@ session_start();
            <a href="balance.php"><b>BALANCE</b></a>
            </button>
            <button class="button">
-           <a href="logout.php"><b>HISTORY</b></a>
+           <a href="history.php"><b>HISTORY</b></a>
            </button>
            <button class="button">
            <a href="pinchange.php"><b>CHNAGE PIN</b></a>
