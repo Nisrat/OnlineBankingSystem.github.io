@@ -8,12 +8,12 @@ session_start();
 ?>
 <html>
 <head>  
-    <title>Deposit</title>  
+    <title>Pinchange</title>  
     
     <link rel = "stylesheet" type = "text/css" href = "style.css">   
 </head>  
     <div class="hero">
-    <h1><b>deposit<b><h1>
+    <h1><b>Want to change your pin?<b><h1>
     
     <form action="change.php" method="POST"> 
            <div class="frm">
